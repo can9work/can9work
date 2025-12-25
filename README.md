@@ -14,7 +14,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,vue,ts,tailwind,sass,nodejs,nestjs,lua,postgres,mariadb,figma,git" />
+  <img src="https://skillicons.dev/icons?i=react,vue,ts,tailwind,bootstrap,sass,nodejs,nestjs,lua,postgres,figma,git" />
 </p>
 
 ### 🎯 Current Focus
