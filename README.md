@@ -24,7 +24,3 @@
 - ⚙️ **Backend Exploration:** Gaining deeper experience with NestJS and Lua environments.
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=can9work&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-</p>
